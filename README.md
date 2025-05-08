@@ -19,8 +19,7 @@ The following are the main topics and tools covered:
 ### 1. *Data Manipulation with Pandas*
 
 * Reading and writing CSV files
-* Data cleaning and transformation
-* Boolean masking, Conditional filtering and column selection
+* Data cleaning and transformation + Boolean masking, Conditional filtering and column selection
 * Grouping with `groupby()` and Joining datasets using `merge()` and `concat()`
 
 ### *2. Numerical and Statistical Analysis with NumPy and SciPy*
