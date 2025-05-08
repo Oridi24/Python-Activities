@@ -46,8 +46,7 @@ The following are the main topics and tools covered:
 ### 5. *Real-World Data Processing*
 
 * Analysis of datasets, data preprocessing, and cleaning
-* Handling missing values
-* Converting categorical data to numerical (`.astype('category').cat.codes`, `get_dummies()`)
+* Handling missing values and converting categorical data to numerical (`.astype('category').cat.codes`, `get_dummies()`)
 
 ---
 
