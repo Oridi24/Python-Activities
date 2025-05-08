@@ -1,0 +1,32 @@
+def area_esfera(a):
+   """calcula área de una esfera.
+no toma en cuenta el volumen"""
+
+ #area=4*pi*radio +2**
+ #radio= (sqrt(a)/pi)
+  
+   radio= math.sqrt(a)/math.pi
+   area_esfera= 4 * math.pi * radio**2
+   return result
+
+def volumen_esfera(a):
+   """calcula volumen de una esfera.
+no toma en cuenta el ningún otro parametro"""
+
+ #area=4*pi*radio +2**
+ #radio= (sqrt(a)/pi)
+  
+   radio= math.sqrt(a)/math.pi
+   volumen_esfera= 4 * math.pi * radio***3 / 3   
+   return result
+
+
+def octavos_millas_a_metros(x):
+ienes una variable dentro de tu fución con la correspondencia millas a metros (1609.344 metros por milla)
+Con eso calculas el total de metros y lo devuelves
+Usa la función round de Python (está en el ámbito global) para devolver un número entero (a nadie le importan los cm)
+   #metros= 1609.344 * (x)milla
+    
+   return result.round
+
+

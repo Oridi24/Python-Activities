@@ -1,0 +1,6 @@
+def normalize_text(text):
+    text = text.lower()  # convertir a minúsculas
+    text = text.strip()  # eliminar espacios en blanco al inicio y al final
+    return text
+
+
