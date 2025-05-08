@@ -51,7 +51,7 @@ A continuación, se presentan los principales temas y herramientas abordados:
 
 ---
 
-##  📁Ejemplo grafico de estructura del Repositorio
+##  📁Ejemplo grafico de la estructura del Repositorio
 
 ```bash
 📁 Python/
@@ -63,12 +63,6 @@ A continuación, se presentan los principales temas y herramientas abordados:
 ├── 📁 notebooks/                        # Notebooks principales de prácticas
 │   ├── pandas/
 │   │   └── manipulacion_basica.ipynb
-│   ├── numpy/
-│   │   └── operaciones_numericas.ipynb
-│   ├── matplotlib/
-│   │   └── graficos_estadisticos.ipynb        #
-│   ├── scipy/
-│   │   └── distribuciones_probabilidad.ipynb
 │   ├── estadistica/
 │   │   └── descriptiva_vs_analitica.ipynb
 │   └── fundamentos/
