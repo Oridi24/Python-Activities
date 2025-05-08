@@ -60,12 +60,6 @@ The following are the main topics and tools covered:
 ├── 📁 notebooks/                    # Main practice notebooks
 │   ├── pandas/
 │   │   └── basic_manipulation.ipynb
-│   ├── numpy/
-│   │   └── numerical_operations.ipynb
-│   ├── matplotlib/
-│   │   └── statistical_graphs.ipynb
-│   ├── scipy/
-│   │   └── probability_distributions.ipynb
 │   ├── statistics/
 │   │   └── descriptive_vs_analytical.ipynb
 │   └── fundamentals/
