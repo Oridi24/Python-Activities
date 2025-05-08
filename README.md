@@ -7,9 +7,9 @@ Welcome to my **"Python"** repository, a space where I compile practical activit
 
 **To demonstrate proficiency in:**
 
-* Data analysis
-* Applied statistics with Python and Mastery of the Python scientific stack (NumPy, Pandas, Matplotlib, SciPy)
-* Effective data visualization
+- Data analysis
+- Applied statistics with Python and Mastery of the Python scientific stack (NumPy, Pandas, Matplotlib, SciPy)-
+- Effective data visualization
 
   
 ## *Repository Contents*
@@ -18,9 +18,9 @@ The following are the main topics and tools covered:
 
 ### 1. *Data Manipulation with Pandas*
 
-* Reading and writing CSV files
-* Data cleaning and transformation + Boolean masking, Conditional filtering and column selection
-* Grouping with `groupby()` and Joining datasets using `merge()` and `concat()`
+- Reading and writing CSV files
+- Data cleaning and transformation + Boolean masking, Conditional filtering and column selection
+- Grouping with `groupby()` and Joining datasets using `merge()` and `concat()`
 
 ### *2. Numerical and Statistical Analysis with NumPy and SciPy*
 
