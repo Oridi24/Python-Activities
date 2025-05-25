@@ -44,7 +44,12 @@ A continuación, se presentan los principales temas y herramientas abordados:
 * Estructuras condicionales y bucles (`if`, `for`, `while`)
 * Definición de funciones personalizadas,recursividad e iteración, list comprehensions y manejo de errores
 
-### *5. Análisis de Datos del Mundo Real*
+### *5. Regresion lineal y Calculo de errores*
+
+* Actualmente, trabajando en ello
+* 
+
+### *6. Análisis de Datos del Mundo Real*
 
 * Ejercicios con datasets,preprocesamiento y limpieza de datos
 * Gestión de valores nulos y conversión de variables categóricas a numéricas (`.astype('category').cat.codes`, `get_dummies()`)
