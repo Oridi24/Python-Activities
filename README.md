@@ -42,11 +42,16 @@ The following are the main topics and tools covered:
 * Conditional statements and loops (`if`, `for`, `while`)
 * Custom functions, recursion, list comprehensions, error handling, and iteration
 
-### 5. *Real-World Data Processing*
+### 5. *Linear Regression*
+
+* Working on this..
+*
+*
+
+### 6. *Real-World Data Processing*
 
 * Analysis of datasets, data preprocessing, and cleaning
 * Handling missing values and converting categorical data to numerical (`.astype('category').cat.codes`, `get_dummies()`)
-
 ---
 
 ## 📁*Graphic example of the Repository structure*
