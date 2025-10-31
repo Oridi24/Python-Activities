@@ -58,7 +58,6 @@ The following are the main topics and tools covered:
 ```bash
 📁 Python/
 ├── 📄 README_EN.md                  # English README
-├── 📄 README_ES.md                  # Spanish README
 ├── 📁 datasets/                     # CSV files used
 │   ├── google_data.csv
 │   └── ...
@@ -69,7 +68,7 @@ The following are the main topics and tools covered:
 │   │   └── descriptive_vs_analytical.ipynb
 │   └── fundamentals/
 │       └── data_structures_functions.ipynb
-├── 📁 docs/                         # Additional resources (PDFs, presentations, etc.)
+├── ML Pipeline and algorithms         # Additional resources for Machine learning techniques.
 ````
 
 ---
